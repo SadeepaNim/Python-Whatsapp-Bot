@@ -1,0 +1,10 @@
+flask
+python-dotenv
+#openai
+aiohttp
+requests
+google.generativeai
+PyPDF2
+#llamaapi
+google-generativeai
+gunicorn
